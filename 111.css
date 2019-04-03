@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+
+
+
+.iron-man-poster {
+	    background-image: url(ironman4.jpg);
+	    background-size: cover;
+	    width: 100vw;
+	    height: 92vh;
+	    z-index: 0;
+	    padding-top: 65px;
+}
+.center-block {
+	    background: linear-gradient(to bottom right, rgb(26, 25, 31), rgb(54, 54, 65));
+		width: 84%;
+		height: 89%;
+		margin-left: 109px;
+
+
+}
+
+.navigation-block {
+
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+
+}
+
+.avangers {
+		font-size: 400%;
+		color: white;
+		font-family:  monospace;
+		margin-left: 40%;
+
+}
+
+.menu {
+	color: white;
+		margin-left: 4vw;
+		margin-top: 5vh;
+}
+
+.line { 
+		display: flex;
+		flex-direction: column;
+		 
+		margin-top: 10vh;
+		border-radius: 10px;
+
+ }
+
+
+
+.icon-block {
+		display: flex;
+		align-items: center;
+}
+
+.icon-block p {
+		margin-top: 40px;
+		font-family: 'Permanent Marker', cursive;
+		text-transform: uppercase;
+		color: white;
+		font-size: 30px;
+}
+
+.text_11 {
+		color: rgba(94,95,104);
+		font-size: 20px;
+		margin-right: 4vw;
+		margin-top: 5vh;
+}
+
+.navbar { 
+display: flex;
+writing-mode: tb-rl;
+transform:rotate(180deg);
+color: white;
+justify-content: space-around;
+font-family: 'Roboto', sans-serif;
+text-transform: uppercase;
+ }
+
+.block-word-1 { 
+		background-color: white;
+		width: 35vw;
+		font-family: 'Roboto', sans-serif;
+		color: red;
+		background: linear-gradient(to bottom right, rgb(255, 255, 255), rgb(65, 65, 65));
+		
+ }
+
+ .block-word-1 p { 
+margin-top: 9vh;
+text-align: right;
+margin-right: 2vh;
+font-size: 120px;
+  }
+
+
+
+.block-word-2 { 
+		background-image: url(ironman123.jpg);
+		background-position: center;
+		background-size: cover;
+		width: 43vw;
+		font-family: 'Roboto', sans-serif;
+		color: white;
+		
+ }
+
+ .block-word-2 p {
+ margin-top: 20vh;
+ margin-left: 2vh;
+ font-size: 120px;
+ }
+
+.block-word-2 button {
+height: 6vh;
+width: 14vw;
+background-color: red;
+border: none;
+font-size: 20px;
+border-radius: 5px;
+color: white;
+margin-left: 44vh;
+
+}
+
+
+
+.main-block { 
+		display: flex;
+		height: 65vh;
+ }
+
+ .overhead-line { 
+background: red;
+width: 100px;
+height: 7px;
+position: inherit;
+margin-left: 18vw;
+margin-top: 10vh;
+z-index: 2;
+  }
+
+.block-word-1-bottom{
+margin-left: 90px;
+
+}
+
+.block-word-1-bottom p { 
+color: black;
+font-size: 35px;
+text-align: left;
+border-bottom: solid;
+width: 300px;
+margin-bottom: 10px;
+ }
+
+ .block-word-1-bottom span {
+color: rgb(85, 92, 102);
+
+ }
+
+ .block-word-2 span {
+color: rgb(85, 92, 102);
+margin-left: 25vw;
+margin-top: 5vh;
+}
+
+.hamburger-menu span {
+background-color: white;
+width: 40px;
+height: 5px;
+display: flex;
+margin-bottom: 5px;
+
+}
+
+.final{
+position: absolute;
+margin-left: 27%;
+margin-top: 10%;
+width: 450px;
+}
+
+.circle {
+color:white;
+margin-left: 1vw;
+font-size: 30px;
+}
+
+.circle-1  {
+margin-top: 19%;
+}
